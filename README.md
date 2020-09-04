@@ -36,7 +36,6 @@ task.resume()
 - [ ] (1pt) Run your app on a real device. (Since I don't have an iPhone, I couldn't test it on a real device)
 
 ### App Walkthrough GIF
-<img src="YOUR_GIF_URL_HERE" width=250><br>
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/52833369/92207581-53d3e480-ee3e-11ea-8323-6a44cd6b2ca8.gif)
 ### Notes
 As I am from Software Development background, I did not find this assignment much challenging. But I am not familiar with iOS development, so I am struggling a bit through Swift concepts.
